@@ -9,3 +9,13 @@
 #validation-input.invalid {
   border-color: #f44336;
 }
+
+.img {
+  list-style: none;
+  display: block;
+  margin: 30px 30px;
+}
+
+#text {
+  font-size: 15px;
+}
